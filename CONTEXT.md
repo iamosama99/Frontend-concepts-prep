@@ -175,20 +175,20 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Client-Side Rendering (CSR) | `phase-01-rendering-strategies/01-csr-client-side-rendering.md` | 👉 **Next** |
-| 2 | Server-Side Rendering (SSR) | `phase-01-rendering-strategies/02-ssr-server-side-rendering.md` | ⬜ |
-| 3 | Static Site Generation (SSG) | `phase-01-rendering-strategies/03-ssg-static-site-generation.md` | ⬜ |
-| 4 | Incremental Static Regeneration (ISR) | `phase-01-rendering-strategies/04-isr-incremental-static-regeneration.md` | ⬜ |
-| 5 | Streaming SSR | `phase-01-rendering-strategies/05-streaming-ssr.md` | ⬜ |
-| 6 | Partial Hydration & Island Architecture | `phase-01-rendering-strategies/06-partial-hydration-island-architecture.md` | ⬜ |
-| 7 | Progressive Rehydration | `phase-01-rendering-strategies/07-progressive-rehydration.md` | ⬜ |
-| 8 | Resumability (Qwik model) | `phase-01-rendering-strategies/08-resumability-qwik-model.md` | ⬜ |
+| 1 | Client-Side Rendering (CSR) | `phase-01-rendering-strategies/01-csr-client-side-rendering.md` | ✅ |
+| 2 | Server-Side Rendering (SSR) | `phase-01-rendering-strategies/02-ssr-server-side-rendering.md` | ✅ |
+| 3 | Static Site Generation (SSG) | `phase-01-rendering-strategies/03-ssg-static-site-generation.md` | ✅ |
+| 4 | Incremental Static Regeneration (ISR) | `phase-01-rendering-strategies/04-isr-incremental-static-regeneration.md` | ✅ |
+| 5 | Streaming SSR | `phase-01-rendering-strategies/05-streaming-ssr.md` | ✅ |
+| 6 | Partial Hydration & Island Architecture | `phase-01-rendering-strategies/06-partial-hydration-island-architecture.md` | ✅ |
+| 7 | Progressive Rehydration | `phase-01-rendering-strategies/07-progressive-rehydration.md` | ✅ |
+| 8 | Resumability (Qwik model) | `phase-01-rendering-strategies/08-resumability-qwik-model.md` | ✅ |
 
 ### Phase 2 — Browser Internals & Rendering Pipeline (5 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Event Loop, Call Stack, Task Queue, Microtask Queue | `phase-02-browser-internals/01-event-loop-call-stack-task-microtask-queue.md` | ⬜ |
+| 1 | Event Loop, Call Stack, Task Queue, Microtask Queue | `phase-02-browser-internals/01-event-loop-call-stack-task-microtask-queue.md` | 👉 **Next** |
 | 2 | Critical Rendering Path | `phase-02-browser-internals/02-critical-rendering-path.md` | ⬜ |
 | 3 | Reflow vs. Repaint vs. Composite-only changes | `phase-02-browser-internals/03-reflow-repaint-composite.md` | ⬜ |
 | 4 | GPU Layers & Compositing | `phase-02-browser-internals/04-gpu-layers-compositing.md` | ⬜ |
