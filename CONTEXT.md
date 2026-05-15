@@ -188,17 +188,17 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Event Loop, Call Stack, Task Queue, Microtask Queue | `phase-02-browser-internals/01-event-loop-call-stack-task-microtask-queue.md` | 👉 **Next** |
-| 2 | Critical Rendering Path | `phase-02-browser-internals/02-critical-rendering-path.md` | ⬜ |
-| 3 | Reflow vs. Repaint vs. Composite-only changes | `phase-02-browser-internals/03-reflow-repaint-composite.md` | ⬜ |
-| 4 | GPU Layers & Compositing | `phase-02-browser-internals/04-gpu-layers-compositing.md` | ⬜ |
-| 5 | Main Thread vs. Compositor Thread | `phase-02-browser-internals/05-main-thread-vs-compositor-thread.md` | ⬜ |
+| 1 | Event Loop, Call Stack, Task Queue, Microtask Queue | `phase-02-browser-internals/01-event-loop-call-stack-task-microtask-queue.md` | ✅ |
+| 2 | Critical Rendering Path | `phase-02-browser-internals/02-critical-rendering-path.md` | ✅ |
+| 3 | Reflow vs. Repaint vs. Composite-only changes | `phase-02-browser-internals/03-reflow-repaint-composite.md` | ✅ |
+| 4 | GPU Layers & Compositing | `phase-02-browser-internals/04-gpu-layers-compositing.md` | ✅ |
+| 5 | Main Thread vs. Compositor Thread | `phase-02-browser-internals/05-main-thread-vs-compositor-thread.md` | ✅ |
 
 ### Phase 3 — Networking & Data Communication (7 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | API Paradigms: REST, GraphQL, gRPC-web, tRPC | `phase-03-networking/01-api-paradigms-rest-graphql-grpc-trpc.md` | ⬜ |
+| 1 | API Paradigms: REST, GraphQL, gRPC-web, tRPC | `phase-03-networking/01-api-paradigms-rest-graphql-grpc-trpc.md` | 👉 **Next** |
 | 2 | Real-time Communication: WebSockets, SSE, Long Polling | `phase-03-networking/02-real-time-websockets-sse-long-polling.md` | ⬜ |
 | 3 | BFF Pattern (Backend-for-Frontend) | `phase-03-networking/03-bff-pattern.md` | ⬜ |
 | 4 | Data Fetching Strategies: SWR, React Query, Optimistic UI | `phase-03-networking/04-data-fetching-swr-react-query-optimistic-ui.md` | ⬜ |
