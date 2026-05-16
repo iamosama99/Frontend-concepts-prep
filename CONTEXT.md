@@ -233,20 +233,20 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Core Web Vitals: LCP, INP, CLS | `phase-06-performance/01-core-web-vitals-lcp-inp-cls.md` | 👉 **Next** |
-| 2 | Resource Hinting: Preload, Prefetch, Preconnect, Prerender | `phase-06-performance/02-resource-hinting-preload-prefetch-preconnect.md` | ⬜ |
-| 3 | Code Splitting & Dynamic Imports | `phase-06-performance/03-code-splitting-dynamic-imports.md` | ⬜ |
-| 4 | List Virtualization & Windowing | `phase-06-performance/04-list-virtualization-windowing.md` | ⬜ |
-| 5 | Tree Shaking & Dead Code Elimination | `phase-06-performance/05-tree-shaking-dead-code-elimination.md` | ⬜ |
-| 6 | Asset Optimization: WebP/AVIF, Font Subsetting, SVGO | `phase-06-performance/06-asset-optimization-webp-avif-fonts-svgo.md` | ⬜ |
-| 7 | CSS Performance: Critical CSS, CSS-in-JS, Utility CSS | `phase-06-performance/07-css-performance-critical-css-in-js-utility.md` | ⬜ |
-| 8 | Animation Performance: FLIP, CSS vs. JS, requestAnimationFrame | `phase-06-performance/08-animation-performance-flip-css-vs-js-raf.md` | ⬜ |
+| 1 | Core Web Vitals: LCP, INP, CLS | `phase-06-performance/01-core-web-vitals-lcp-inp-cls.md` | ✅ |
+| 2 | Resource Hinting: Preload, Prefetch, Preconnect, Prerender | `phase-06-performance/02-resource-hinting-preload-prefetch-preconnect.md` | ✅ |
+| 3 | Code Splitting & Dynamic Imports | `phase-06-performance/03-code-splitting-dynamic-imports.md` | ✅ |
+| 4 | List Virtualization & Windowing | `phase-06-performance/04-list-virtualization-windowing.md` | ✅ |
+| 5 | Tree Shaking & Dead Code Elimination | `phase-06-performance/05-tree-shaking-dead-code-elimination.md` | ✅ |
+| 6 | Asset Optimization: WebP/AVIF, Font Subsetting, SVGO | `phase-06-performance/06-asset-optimization-webp-avif-fonts-svgo.md` | ✅ |
+| 7 | CSS Performance: Critical CSS, CSS-in-JS, Utility CSS | `phase-06-performance/07-css-performance-critical-css-in-js-utility.md` | ✅ |
+| 8 | Animation Performance: FLIP, CSS vs. JS, requestAnimationFrame | `phase-06-performance/08-animation-performance-flip-css-vs-js-raf.md` | ✅ |
 
 ### Phase 7 — Concurrency, Parallelism & Scheduling (7 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Web Workers & Dedicated Workers | `phase-07-concurrency/01-web-workers-dedicated-workers.md` | ⬜ |
+| 1 | Web Workers & Dedicated Workers | `phase-07-concurrency/01-web-workers-dedicated-workers.md` | 👉 **Next** |
 | 2 | Service Workers: Lifecycle, Caching, Background Sync | `phase-07-concurrency/02-service-workers-lifecycle-caching-background-sync.md` | ⬜ |
 | 3 | Shared Workers & Cross-tab Communication | `phase-07-concurrency/03-shared-workers-cross-tab-communication.md` | ⬜ |
 | 4 | Worklets: Audio, Paint, Animation | `phase-07-concurrency/04-worklets-audio-paint-animation.md` | ⬜ |
