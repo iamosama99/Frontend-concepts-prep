@@ -222,18 +222,18 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Micro-Frontends: Module Federation, Iframes, Web Components | `phase-05-component-architecture/01-micro-frontends-module-federation.md` | 👉 **Next** |
-| 2 | Monorepo Management vs. Polyrepo | `phase-05-component-architecture/02-monorepo-vs-polyrepo.md` | ⬜ |
-| 3 | Design System Architecture: Headless UI, Design Tokens, Theming | `phase-05-component-architecture/03-design-system-headless-ui-tokens-theming.md` | ⬜ |
-| 4 | Atomic Design Principles | `phase-05-component-architecture/04-atomic-design-principles.md` | ⬜ |
-| 5 | Component Composition Patterns: HOCs, Render Props, Hooks, Compound | `phase-05-component-architecture/05-component-composition-patterns.md` | ⬜ |
-| 6 | Slot-based Composition vs. Children Prop Patterns | `phase-05-component-architecture/06-slot-based-vs-children-prop.md` | ⬜ |
+| 1 | Micro-Frontends: Module Federation, Iframes, Web Components | `phase-05-component-architecture/01-micro-frontends-module-federation.md` | ✅ |
+| 2 | Monorepo Management vs. Polyrepo | `phase-05-component-architecture/02-monorepo-vs-polyrepo.md` | ✅ |
+| 3 | Design System Architecture: Headless UI, Design Tokens, Theming | `phase-05-component-architecture/03-design-system-headless-ui-tokens-theming.md` | ✅ |
+| 4 | Atomic Design Principles | `phase-05-component-architecture/04-atomic-design-principles.md` | ✅ |
+| 5 | Component Composition Patterns: HOCs, Render Props, Hooks, Compound | `phase-05-component-architecture/05-component-composition-patterns.md` | ✅ |
+| 6 | Slot-based Composition vs. Children Prop Patterns | `phase-05-component-architecture/06-slot-based-vs-children-prop.md` | ✅ |
 
 ### Phase 6 — Performance Optimization (8 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Core Web Vitals: LCP, INP, CLS | `phase-06-performance/01-core-web-vitals-lcp-inp-cls.md` | ⬜ |
+| 1 | Core Web Vitals: LCP, INP, CLS | `phase-06-performance/01-core-web-vitals-lcp-inp-cls.md` | 👉 **Next** |
 | 2 | Resource Hinting: Preload, Prefetch, Preconnect, Prerender | `phase-06-performance/02-resource-hinting-preload-prefetch-preconnect.md` | ⬜ |
 | 3 | Code Splitting & Dynamic Imports | `phase-06-performance/03-code-splitting-dynamic-imports.md` | ⬜ |
 | 4 | List Virtualization & Windowing | `phase-06-performance/04-list-virtualization-windowing.md` | ⬜ |
