@@ -270,19 +270,19 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | History API vs. Hash Routing | `phase-09-routing/01-history-api-vs-hash-routing.md` | 👉 **Next** |
-| 2 | File-system Based vs. Config-based Routing | `phase-09-routing/02-filesystem-vs-config-based-routing.md` | ⬜ |
-| 3 | Nested Routing & Layout Inheritance | `phase-09-routing/03-nested-routing-layout-inheritance.md` | ⬜ |
-| 4 | Route-level Code Splitting | `phase-09-routing/04-route-level-code-splitting.md` | ⬜ |
-| 5 | Navigation Guards & Middleware | `phase-09-routing/05-navigation-guards-middleware.md` | ⬜ |
-| 6 | URL as State: Deep Linking & Shareability | `phase-09-routing/06-url-as-state-deep-linking.md` | ⬜ |
-| 7 | Scroll Restoration | `phase-09-routing/07-scroll-restoration.md` | ⬜ |
+| 1 | History API vs. Hash Routing | `phase-09-routing/01-history-api-vs-hash-routing.md` | ✅ |
+| 2 | File-system Based vs. Config-based Routing | `phase-09-routing/02-filesystem-vs-config-based-routing.md` | ✅ |
+| 3 | Nested Routing & Layout Inheritance | `phase-09-routing/03-nested-routing-layout-inheritance.md` | ✅ |
+| 4 | Route-level Code Splitting | `phase-09-routing/04-route-level-code-splitting.md` | ✅ |
+| 5 | Navigation Guards & Middleware | `phase-09-routing/05-navigation-guards-middleware.md` | ✅ |
+| 6 | URL as State: Deep Linking & Shareability | `phase-09-routing/06-url-as-state-deep-linking.md` | ✅ |
+| 7 | Scroll Restoration | `phase-09-routing/07-scroll-restoration.md` | ✅ |
 
 ### Phase 10 — Module Systems & Build Infrastructure (6 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | ESM vs. CJS vs. UMD — Interop Challenges | `phase-10-module-systems/01-esm-vs-cjs-vs-umd.md` | ⬜ |
+| 1 | ESM vs. CJS vs. UMD — Interop Challenges | `phase-10-module-systems/01-esm-vs-cjs-vs-umd.md` | 👉 **Next** |
 | 2 | Bundlers: Webpack, Vite, Esbuild, Turbopack, Rollup | `phase-10-module-systems/02-bundlers-webpack-vite-esbuild-turbopack-rollup.md` | ⬜ |
 | 3 | Tree Shaking, Scope Hoisting, Chunk Splitting | `phase-10-module-systems/03-tree-shaking-scope-hoisting-chunk-splitting.md` | ⬜ |
 | 4 | Source Maps Strategy (dev vs. prod) | `phase-10-module-systems/04-source-maps-strategy.md` | ⬜ |
