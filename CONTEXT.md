@@ -198,19 +198,19 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | API Paradigms: REST, GraphQL, gRPC-web, tRPC | `phase-03-networking/01-api-paradigms-rest-graphql-grpc-trpc.md` | 👉 **Next** |
-| 2 | Real-time Communication: WebSockets, SSE, Long Polling | `phase-03-networking/02-real-time-websockets-sse-long-polling.md` | ⬜ |
-| 3 | BFF Pattern (Backend-for-Frontend) | `phase-03-networking/03-bff-pattern.md` | ⬜ |
-| 4 | Data Fetching Strategies: SWR, React Query, Optimistic UI | `phase-03-networking/04-data-fetching-swr-react-query-optimistic-ui.md` | ⬜ |
-| 5 | Caching Layers: HTTP Cache, Service Worker Cache, CDN | `phase-03-networking/05-caching-layers-http-service-worker-cdn.md` | ⬜ |
-| 6 | Payload Optimization: Compression, Protocol Buffers, Binary | `phase-03-networking/06-payload-optimization-compression-protobuf-binary.md` | ⬜ |
-| 7 | HTTP/2 Multiplexing & HTTP/3 (QUIC) | `phase-03-networking/07-http2-multiplexing-http3-quic.md` | ⬜ |
+| 1 | API Paradigms: REST, GraphQL, gRPC-web, tRPC | `phase-03-networking/01-api-paradigms-rest-graphql-grpc-trpc.md` | ✅ |
+| 2 | Real-time Communication: WebSockets, SSE, Long Polling | `phase-03-networking/02-real-time-websockets-sse-long-polling.md` | ✅ |
+| 3 | BFF Pattern (Backend-for-Frontend) | `phase-03-networking/03-bff-pattern.md` | ✅ |
+| 4 | Data Fetching Strategies: SWR, React Query, Optimistic UI | `phase-03-networking/04-data-fetching-swr-react-query-optimistic-ui.md` | ✅ |
+| 5 | Caching Layers: HTTP Cache, Service Worker Cache, CDN | `phase-03-networking/05-caching-layers-http-service-worker-cdn.md` | ✅ |
+| 6 | Payload Optimization: Compression, Protocol Buffers, Binary | `phase-03-networking/06-payload-optimization-compression-protobuf-binary.md` | ✅ |
+| 7 | HTTP/2 Multiplexing & HTTP/3 (QUIC) | `phase-03-networking/07-http2-multiplexing-http3-quic.md` | ✅ |
 
 ### Phase 4 — State Management & Data Flow (7 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Server State vs. Client State vs. URL State vs. Form State | `phase-04-state-management/01-server-client-url-form-state.md` | ⬜ |
+| 1 | Server State vs. Client State vs. URL State vs. Form State | `phase-04-state-management/01-server-client-url-form-state.md` | 👉 **Next** |
 | 2 | Unidirectional vs. Bidirectional Data Flow | `phase-04-state-management/02-unidirectional-vs-bidirectional-data-flow.md` | ⬜ |
 | 3 | Reactivity Models: Signals, Observables (RxJS), Proxies | `phase-04-state-management/03-reactivity-models-signals-observables-proxies.md` | ⬜ |
 | 4 | Global Store vs. Prop Drilling vs. Context / DI | `phase-04-state-management/04-global-store-prop-drilling-context-di.md` | ⬜ |
