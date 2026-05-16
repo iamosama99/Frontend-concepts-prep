@@ -247,30 +247,30 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 | # | Topic | File | Status |
 |---|-------|------|--------|
 | 1 | Web Workers & Dedicated Workers | `phase-07-concurrency/01-web-workers-dedicated-workers.md` | ✅ |
-| 2 | Service Workers: Lifecycle, Caching, Background Sync | `phase-07-concurrency/02-service-workers-lifecycle-caching-background-sync.md` | 👉 **Next** |
-| 3 | Shared Workers & Cross-tab Communication | `phase-07-concurrency/03-shared-workers-cross-tab-communication.md` | ⬜ |
-| 4 | Worklets: Audio, Paint, Animation | `phase-07-concurrency/04-worklets-audio-paint-animation.md` | ⬜ |
-| 5 | SharedArrayBuffer & Atomics | `phase-07-concurrency/05-sharedarraybuffer-atomics.md` | ⬜ |
-| 6 | Concurrency Scheduling: React Concurrent Mode, scheduler.postTask | `phase-07-concurrency/06-concurrency-scheduling-react-concurrent-scheduler.md` | ⬜ |
-| 7 | OffscreenCanvas | `phase-07-concurrency/07-offscreen-canvas.md` | ⬜ |
+| 2 | Service Workers: Lifecycle, Caching, Background Sync | `phase-07-concurrency/02-service-workers-lifecycle-caching-background-sync.md` | ✅ |
+| 3 | Shared Workers & Cross-tab Communication | `phase-07-concurrency/03-shared-workers-cross-tab-communication.md` | ✅ |
+| 4 | Worklets: Audio, Paint, Animation | `phase-07-concurrency/04-worklets-audio-paint-animation.md` | ✅ |
+| 5 | SharedArrayBuffer & Atomics | `phase-07-concurrency/05-sharedarraybuffer-atomics.md` | ✅ |
+| 6 | Concurrency Scheduling: React Concurrent Mode, scheduler.postTask | `phase-07-concurrency/06-concurrency-scheduling-react-concurrent-scheduler.md` | ✅ |
+| 7 | OffscreenCanvas | `phase-07-concurrency/07-offscreen-canvas.md` | ✅ |
 
 ### Phase 8 — Browser Storage & Offline (7 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Cookie Strategy: HttpOnly, SameSite, Secure, Partitioned | `phase-08-browser-storage/01-cookie-strategy-httponly-samesite-secure.md` | ⬜ |
-| 2 | LocalStorage vs. SessionStorage | `phase-08-browser-storage/02-localstorage-vs-sessionstorage.md` | ⬜ |
-| 3 | IndexedDB: Schema Design & Transactions | `phase-08-browser-storage/03-indexeddb-schema-transactions.md` | ⬜ |
-| 4 | Cache API (Service Worker Layer) | `phase-08-browser-storage/04-cache-api-service-worker-layer.md` | ⬜ |
-| 5 | Storage Quotas & Eviction Policies | `phase-08-browser-storage/05-storage-quotas-eviction-policies.md` | ⬜ |
-| 6 | PWA: App Shell, Background Sync, Web Push | `phase-08-browser-storage/06-pwa-app-shell-background-sync-web-push.md` | ⬜ |
-| 7 | Offline-first Architecture Patterns | `phase-08-browser-storage/07-offline-first-architecture.md` | ⬜ |
+| 1 | Cookie Strategy: HttpOnly, SameSite, Secure, Partitioned | `phase-08-browser-storage/01-cookie-strategy-httponly-samesite-secure.md` | ✅ |
+| 2 | LocalStorage vs. SessionStorage | `phase-08-browser-storage/02-localstorage-vs-sessionstorage.md` | ✅ |
+| 3 | IndexedDB: Schema Design & Transactions | `phase-08-browser-storage/03-indexeddb-schema-transactions.md` | ✅ |
+| 4 | Cache API (Service Worker Layer) | `phase-08-browser-storage/04-cache-api-service-worker-layer.md` | ✅ |
+| 5 | Storage Quotas & Eviction Policies | `phase-08-browser-storage/05-storage-quotas-eviction-policies.md` | ✅ |
+| 6 | PWA: App Shell, Background Sync, Web Push | `phase-08-browser-storage/06-pwa-app-shell-background-sync-web-push.md` | ✅ |
+| 7 | Offline-first Architecture Patterns | `phase-08-browser-storage/07-offline-first-architecture.md` | ✅ |
 
 ### Phase 9 — Client-Side Routing & URL Design (7 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | History API vs. Hash Routing | `phase-09-routing/01-history-api-vs-hash-routing.md` | ⬜ |
+| 1 | History API vs. Hash Routing | `phase-09-routing/01-history-api-vs-hash-routing.md` | 👉 **Next** |
 | 2 | File-system Based vs. Config-based Routing | `phase-09-routing/02-filesystem-vs-config-based-routing.md` | ⬜ |
 | 3 | Nested Routing & Layout Inheritance | `phase-09-routing/03-nested-routing-layout-inheritance.md` | ⬜ |
 | 4 | Route-level Code Splitting | `phase-09-routing/04-route-level-code-splitting.md` | ⬜ |
