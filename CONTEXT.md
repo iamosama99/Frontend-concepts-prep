@@ -246,8 +246,8 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Web Workers & Dedicated Workers | `phase-07-concurrency/01-web-workers-dedicated-workers.md` | 👉 **Next** |
-| 2 | Service Workers: Lifecycle, Caching, Background Sync | `phase-07-concurrency/02-service-workers-lifecycle-caching-background-sync.md` | ⬜ |
+| 1 | Web Workers & Dedicated Workers | `phase-07-concurrency/01-web-workers-dedicated-workers.md` | ✅ |
+| 2 | Service Workers: Lifecycle, Caching, Background Sync | `phase-07-concurrency/02-service-workers-lifecycle-caching-background-sync.md` | 👉 **Next** |
 | 3 | Shared Workers & Cross-tab Communication | `phase-07-concurrency/03-shared-workers-cross-tab-communication.md` | ⬜ |
 | 4 | Worklets: Audio, Paint, Animation | `phase-07-concurrency/04-worklets-audio-paint-animation.md` | ⬜ |
 | 5 | SharedArrayBuffer & Atomics | `phase-07-concurrency/05-sharedarraybuffer-atomics.md` | ⬜ |
