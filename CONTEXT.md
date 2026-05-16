@@ -210,19 +210,19 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Server State vs. Client State vs. URL State vs. Form State | `phase-04-state-management/01-server-client-url-form-state.md` | 👉 **Next** |
-| 2 | Unidirectional vs. Bidirectional Data Flow | `phase-04-state-management/02-unidirectional-vs-bidirectional-data-flow.md` | ⬜ |
-| 3 | Reactivity Models: Signals, Observables (RxJS), Proxies | `phase-04-state-management/03-reactivity-models-signals-observables-proxies.md` | ⬜ |
-| 4 | Global Store vs. Prop Drilling vs. Context / DI | `phase-04-state-management/04-global-store-prop-drilling-context-di.md` | ⬜ |
-| 5 | Finite State Machines (XState) | `phase-04-state-management/05-finite-state-machines-xstate.md` | ⬜ |
-| 6 | Immutable Data Structures | `phase-04-state-management/06-immutable-data-structures.md` | ⬜ |
-| 7 | Derived State & Memoization Strategies | `phase-04-state-management/07-derived-state-memoization.md` | ⬜ |
+| 1 | Server State vs. Client State vs. URL State vs. Form State | `phase-04-state-management/01-server-client-url-form-state.md` | ✅ |
+| 2 | Unidirectional vs. Bidirectional Data Flow | `phase-04-state-management/02-unidirectional-vs-bidirectional-data-flow.md` | ✅ |
+| 3 | Reactivity Models: Signals, Observables (RxJS), Proxies | `phase-04-state-management/03-reactivity-models-signals-observables-proxies.md` | ✅ |
+| 4 | Global Store vs. Prop Drilling vs. Context / DI | `phase-04-state-management/04-global-store-prop-drilling-context-di.md` | ✅ |
+| 5 | Finite State Machines (XState) | `phase-04-state-management/05-finite-state-machines-xstate.md` | ✅ |
+| 6 | Immutable Data Structures | `phase-04-state-management/06-immutable-data-structures.md` | ✅ |
+| 7 | Derived State & Memoization Strategies | `phase-04-state-management/07-derived-state-memoization.md` | ✅ |
 
 ### Phase 5 — Component Architecture & Scalability (6 topics)
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| 1 | Micro-Frontends: Module Federation, Iframes, Web Components | `phase-05-component-architecture/01-micro-frontends-module-federation.md` | ⬜ |
+| 1 | Micro-Frontends: Module Federation, Iframes, Web Components | `phase-05-component-architecture/01-micro-frontends-module-federation.md` | 👉 **Next** |
 | 2 | Monorepo Management vs. Polyrepo | `phase-05-component-architecture/02-monorepo-vs-polyrepo.md` | ⬜ |
 | 3 | Design System Architecture: Headless UI, Design Tokens, Theming | `phase-05-component-architecture/03-design-system-headless-ui-tokens-theming.md` | ⬜ |
 | 4 | Atomic Design Principles | `phase-05-component-architecture/04-atomic-design-principles.md` | ⬜ |
