@@ -344,3 +344,5 @@ Before moving on, check off each item you can do WITHOUT looking at the file.
 
 ---
 *Next: Caching Layers — HTTP Cache, Service Worker Cache, and CDN — the layered caching model that sits between your server and your users.*
+
+*See also: [Phase 4 — Server, Client, URL & Form State](../phase-04-state-management/01-server-client-url-form-state.md) — establishes the taxonomy that explains *why* React Query exists: server state has fundamentally different characteristics (staleness, async, shared ownership) from client state, and needs a dedicated tool to manage them.*

@@ -213,3 +213,5 @@ Before moving on, check off each item you can do WITHOUT looking at the file.
 
 ---
 *Next: Main Thread vs. Compositor Thread — the architectural separation that makes smooth scroll and animation possible, and exactly what work belongs on each thread.*
+
+*See also: [Phase 3 — HTTP/2 Multiplexing & HTTP/3 QUIC](../phase-03-networking/07-http2-multiplexing-http3-quic.md) — HTTP/2's elimination of head-of-line blocking means asset responses arrive more uniformly, reducing the frame-timing jitter that forces unintended layer promotions during page load.*

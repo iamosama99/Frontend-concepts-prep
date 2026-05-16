@@ -200,7 +200,7 @@ state.count = 1; // setting count → triggers the effect
 
 The advantage over signals: you work with plain objects. No `.value`, no `count()` call syntax. You read `state.count`, not `count()`. The Proxy intercepts transparently.
 
-The disadvantage: you can't reactively track properties that don't exist at creation time in some implementations. Vue 3 handles this with `Proxy`, which solved Vue 2's limitation with `Object.defineProperty` (which couldn't detect new properties).
+The one limitation of Proxy-based reactivity: primitives can't be wrapped directly — `reactive(42)` doesn't work because Proxy only wraps objects. Vue handles this with `ref()`, which boxes a primitive into `{ value: ... }`. Dynamic property addition is fully supported — Vue 3 Proxies intercept *all* property accesses including new keys, which is precisely what fixed Vue 2's `Object.defineProperty` limitation (where properties added after initialization bypassed reactivity and required `Vue.set()` as a workaround).
 
 **MobX** also uses Proxies (or `Object.defineProperty` in older versions) to make class fields reactive:
 

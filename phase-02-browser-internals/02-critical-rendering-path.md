@@ -221,3 +221,5 @@ Before moving on, check off each item you can do WITHOUT looking at the file.
 
 ---
 *Next: Reflow vs. Repaint vs. Composite-only Changes — the cost hierarchy of visual updates once the initial render is complete, and the techniques that keep animations at 60fps.*
+
+*See also: [Phase 1 — Streaming SSR](../phase-01-rendering-strategies/05-streaming-ssr.md) — shows how streaming exploits the incremental nature of the CRP by flushing HTML in chunks so the browser can begin parsing and painting before the full response is ready.*

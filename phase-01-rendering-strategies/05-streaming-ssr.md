@@ -209,3 +209,5 @@ Before moving on, check off each item you can do WITHOUT looking at the file.
 
 ---
 *Next: Partial Hydration & Island Architecture — taking the idea further by shipping JavaScript only for interactive components, keeping the rest as static HTML, as popularized by Astro and Fresh.*
+
+*See also: [Phase 2 — Critical Rendering Path](../phase-02-browser-internals/02-critical-rendering-path.md) — explains how the browser processes the first bytes of HTML as they arrive, and why streaming's earlier TTFB translates directly to earlier paint.*
